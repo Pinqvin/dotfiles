@@ -1,0 +1,4 @@
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# Increase command timeout, asdf shimmed versions seem to timeout often
+command_timeout = 1000
